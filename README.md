@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello there! 👋  
+I'm Marcin Mikuła
 
-<!--
-**martini1007/martini1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Passionate about Linux, DevOps & Cloud – Enthusiastic about system administration, automation and scalable infrastructure.  
+⚙️ Obsessed with tools that make life easier – Docker, Kubernetes, Terraform, Jenkins, Ansible... you name it.  
+🔐 Curious about infrastructure security, high availability, and monitoring.  
+🤝 Team-oriented & proactive – I love collaborating, but also feel comfortable working independently.  
+📈 Always improving – Learning never stops.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact  
+Let’s connect!
+
+- 📧 Email: mm307902@student.polsl.pl 
+- 💻 GitHub: [github.com/martini1007](https://github.com/martini1007)  
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ DevOps & Infrastructure
+`Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `AWS`
+
+### 🧰 Tools & Utilities
+`Linux` `Bash` `Git` 
+
+### 🧠 Scripting & Programming
+`Python` `Shell`
+
+---
