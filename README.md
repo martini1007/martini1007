@@ -2,7 +2,7 @@
 I'm Marcin Mikuła
 
 🖥️ Passionate about Linux, DevOps & Cloud – Enthusiastic about system administration, automation and scalable infrastructure.  
-⚙️ Obsessed with tools that make life easier – Docker, Kubernetes, Terraform, Jenkins.
+⚙️ Obsessed with tools that make life easier – Docker, Kubernetes, Terraform, Jenkins.               
 🤝 Team-oriented & proactive – I love collaborating, but also feel comfortable working independently.  
 📈 Always improving – Learning never stops.
 
