@@ -28,3 +28,12 @@ Let’s connect!
 `Python` `Shell`
 
 ---
+
+## 🏅 Certifications
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)]
+(https://www.credly.com/badges/b902cfd9-184a-491a-91d7-4f27f45a9347/public_url)
+
+**AWS Certified Cloud Practitioner**  
+*Amazon Web Services (AWS)*  
+Valid: Jan 2026 – Jan 2029
