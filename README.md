@@ -12,7 +12,8 @@ I'm Marcin Mikuła
 Let’s connect!
 
 - 📧 Email: mm307902@student.polsl.pl 
-- 💻 GitHub: [github.com/martini1007](https://github.com/martini1007)  
+- 💻 GitHub: [github.com/martini1007](https://github.com/martini1007)
+- 🔗 LinkedIn: [linkedin.com/in/marcin-mikuła](https://www.linkedin.com/in/marcin-mikuła)
 
 ---
 
