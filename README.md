@@ -33,6 +33,7 @@ Let’s connect!
 ## 🏅 Certifications
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/b902cfd9-184a-491a-91d7-4f27f45a9347/public_url)
+[![HashiCorp Certified: Terraform Associate (004)](https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob)](https://www.credly.com/badges/62a7d596-e150-4b85-99a8-2bdfb3ea2a7a/public_url)  
 
 
 **AWS Certified Cloud Practitioner**  
